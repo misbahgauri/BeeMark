@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.NoBrowser": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  }
+}
