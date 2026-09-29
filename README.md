@@ -6,7 +6,7 @@ Beemarks is a note-taking web app built for students — write, draw, and organi
 
 ## Live demo
 
-[Add your GitHub Pages link here once it's live]
+https://misbahgauri.github.io/BeeMark/
 
 ## Features
 
